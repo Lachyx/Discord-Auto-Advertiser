@@ -1,4 +1,4 @@
-> ![WARNING]
+![WARNING]
 > Not Responsable For Any Bans
 
 # Setup Guide:
