@@ -1,0 +1,64 @@
+{
+    "token": "",
+    "activity": {
+        "enabled": true,
+        "emoji": ":musical_note:",
+        "state": "Stack"
+    },
+    "auto-dm": {
+        "enabled": false,
+        "message": "Auto Response Message",
+        "only-respond-if-new": true
+    },    
+    "auto-respond": {
+        "enabled": false,
+        "trigger": "Stack",
+        "response": "Message"
+    },
+    "webhook": "",
+    "rich-presence": {
+        "enabled": false,
+        "application-id": "",
+        "type": "PLAYING",
+        "url": "",
+        "state": "",
+        "name": "",
+        "details": "",
+        "party": {
+            "max": 1,
+            "current": 1
+        },
+        "assets": {
+            "large-image": "",
+            "large-text": "",
+            "small-image": "",
+            "small-text": ""
+        },
+        "buttons": {
+            "primary": {
+                "label": "",
+                "url": ""
+            },
+            "secondary": {
+                "label": "",
+                "url": ""
+            }
+        }
+
+    },
+    "campaign": {
+        "enabled": true,
+        "channels": [
+            {
+                "id": "",
+                "message": "Hello",
+                "delay": "10000"
+            },
+            {
+                "id": "",
+                "message": "Hello",
+                "delay": "10000"
+            }
+          ]
+    }
+}
